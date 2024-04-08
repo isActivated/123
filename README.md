@@ -1,1 +1,1 @@
-isActivated=true;
+$0,1
