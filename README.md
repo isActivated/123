@@ -1,1 +1,1 @@
-isActivated=GOVNO;
+isActivated=true;
