@@ -1,2 +1,1 @@
-# 123
-isActivated=false;
+isActivated=true;
